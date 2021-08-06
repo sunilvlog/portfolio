@@ -11,3 +11,19 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+/* .navbar {
+  background-color: #fff !important;
+}
+.navbar a {
+  font-size: 1.2rem;
+  text-transform: capitalize;
+}
+
+.menu_active {
+  font-weight: bold;
+  border-bottom: 1px solid brown;
+} */
+
+.myimg {
+  height: 230px;
+}
